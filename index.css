@@ -9,7 +9,7 @@ html, body, canvas {
   user-select: none;
   overflow: hidden;
 }
-#hiddenthing {
+.hiddenthing {
   display:none;
 }
 .draghint {

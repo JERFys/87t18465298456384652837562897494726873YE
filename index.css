@@ -9,6 +9,9 @@ html, body, canvas {
   user-select: none;
   overflow: hidden;
 }
+#hiddenthing {
+  display:none;
+}
 .draghint {
   display: table;
   box-sizing: border-box;

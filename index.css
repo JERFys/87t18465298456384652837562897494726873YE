@@ -9,8 +9,8 @@ html, body, canvas {
   user-select: none;
   overflow: hidden;
 }
-#hiddenthing {
-  visible:none;
+.hiddenthing {
+  display:none;
 }
 .draghint {
   display: table;
